@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋🏻, I am Aron Teh</h1>
+[![](https://visitcount.itsvg.in/api?id=Ellipsoul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h1 align="center">Hi! I am Aron Teh 👋🏻</h1>
 <h3 align="center">I am a new and ambitious software engineer with a specific interest in front-end web development. I am always happy to connect with new people!</h3>
 
 ## Links 🔗
@@ -95,30 +97,3 @@
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellipsoul&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- <style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-
-    justify-content: start;
-    align-items: start;
-    padding: 5px;
-
-    background-color: aliceblue;
-    border-radius: 10px;
-
-    margin-bottom: 20px;
-    margin-top: 10px
-  }
-
-  #links-container {
-    padding-top: 30px;
-    background-color: #171717;
-  }
-
-  .icon {
-    padding: 8px;
-  }
-</style> -->
