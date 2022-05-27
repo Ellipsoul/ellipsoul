@@ -2,6 +2,8 @@
 
 I am a new and ambitious software engineer with a specific interest in front-end web development. I am always happy to connect with new people!
 
+When time allows, go here and convert to these icons: https://gprm.itsvg.in/
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronteh)
