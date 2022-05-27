@@ -1,30 +1,3 @@
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-
-    justify-content: start;
-    align-items: start;
-    padding: 5px;
-
-    background-color: aliceblue;
-    border-radius: 10px;
-
-    margin-bottom: 20px;
-    margin-top: 10px
-  }
-
-  #links-container {
-    padding-top: 30px;
-    background-color: #171717;
-  }
-
-  .icon {
-    padding: 8px;
-  }
-</style>
-
 <h1 align="center">Hi 👋🏻, I am Aron Teh</h1>
 <h3 align="center">I am a new and ambitious software engineer with a specific interest in front-end web development. I am always happy to connect with new people!</h3>
 
@@ -191,3 +164,30 @@
 
 
 p.s. I might have gotten carried away when I discovered the GitHub ReadMe feature
+
+<!-- <style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    justify-content: start;
+    align-items: start;
+    padding: 5px;
+
+    background-color: aliceblue;
+    border-radius: 10px;
+
+    margin-bottom: 20px;
+    margin-top: 10px
+  }
+
+  #links-container {
+    padding-top: 30px;
+    background-color: #171717;
+  }
+
+  .icon {
+    padding: 8px;
+  }
+</style> -->
