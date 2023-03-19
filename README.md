@@ -1,8 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Ellipsoul&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi! I am Aron Teh 👋🏻</h1>
-<h3 align="left">I am an ambitious software engineer with experience in full-stack web development.</div>
-<h3 align="left"> I am always happy to connect with new people!</h3>
+<h3 align="left">I am an ambitious software engineer with experience in full-stack web development. I am always happy to connect with new people, so please feel free to reach out for any reason!</h3>
 
 ## Links 🔗
 
