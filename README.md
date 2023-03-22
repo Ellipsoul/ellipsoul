@@ -7,11 +7,11 @@
 
 <h3 class="container" id="links-container">
 
-  - 👨‍💻 All my personal projects are available at [https://aronteh.com/](https://aronteh.com/)
+  - 👨‍💻 Check out my personal website at [https://aronteh.com/](https://aronteh.com/)
 
   - 📫 You can reach me at **aronteh.chess@gmail.com**
 
-  - 📜 My updated resume is available at [https://aronteh.com/assets/Aron_Teh_Resume.pdf](https://aronteh.com/assets/Aron_Teh_Resume.pdf)
+  - 📜 My updated resume is available at [https://aronteh.com/Aron_Teh_Resume.pdf](https://aronteh.com/Aron_Teh_Resume.pdf)
 
 </h3>
 
