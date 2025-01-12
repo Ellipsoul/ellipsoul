@@ -87,13 +87,3 @@
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35"/>
 </p>
-
-## Fun Stuff 🎲
-
-![](https://github-readme-stats.vercel.app/api?username=Ellipsoul&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)
-<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ellipsoul&theme=algolia&hide_border=false)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellipsoul&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
